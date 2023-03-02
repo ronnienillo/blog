@@ -1,0 +1,44 @@
+:root {
+    --text-color: #313131;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Noto+Sans&display=swap');
+
+
+html, body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #ddd;
+    color: var(--text-color);
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.blog-list a{
+    display: block;
+    color: var(--text-color);
+    background-color: #fff;
+    display: block;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.blog-list a:hover {
+    background-color: #aeaeae;
+}
+
+.blog-list li {
+    list-style-type: none;
+    margin-bottom: 1rem;
+}
+
+

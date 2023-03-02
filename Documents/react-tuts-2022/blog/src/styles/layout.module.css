@@ -1,0 +1,20 @@
+
+.main {
+    min-height: 65vh;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.notFoundPage {
+    text-align: center;
+}
+
+.notFoundPage h1 {
+    font-size: 30vw;
+    margin-bottom: 0;
+    margin-top: 0;
+}
