@@ -1,6 +1,6 @@
 import Footer from "./footer";
 import Navbar from "./navbar";
-import layoutStyle from '@/styles/layout.module.css'
+import layoutStyle from 'styles/layout.module.css'
 const Layout = ({ children }) => {
     return (
         <>

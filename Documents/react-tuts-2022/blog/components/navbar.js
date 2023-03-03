@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import navStyle from '@/styles/nav.module.css'
-import layoutStyle from '@/styles/layout.module.css'
+import navStyle from 'styles/nav.module.css'
+import layoutStyle from 'styles/layout.module.css'
 
 const Navbar = () => {
     return ( 

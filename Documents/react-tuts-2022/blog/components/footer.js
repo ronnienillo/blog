@@ -1,5 +1,5 @@
-import footerStyle from '@/styles/footer.module.css'
-import layoutStyle from '@/styles/layout.module.css'
+import footerStyle from 'styles/footer.module.css'
+import layoutStyle from 'styles/layout.module.css'
 const Footer = () => {
     return ( 
         <>
